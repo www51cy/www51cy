@@ -8,6 +8,7 @@
 - I'm currently working at **xxx. Ltd.**
 
 - 🌱 I’m currently learning **WebAssembly**
+- 
   `Terraform skill level:`
   
    `[█████████----] 70%`  
