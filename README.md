@@ -13,11 +13,12 @@
 - I'm currently working at **xxx. Ltd.**
 
 - 🌱 I’m currently learning **WebAssembly**  
-  `Terraform skill level:`  `[█████████----] 70%`  
+  `Terraform skill level:` 
+   `[█████████----] 70%`  
 
 - 📫 How to reach me **www51cy@gmail.com**
 
-- 💻 Want to see my portfolio **www.anilrajrimal.com.np**
+- 💻 Want to see my portfolio **xxx**
 
 
 
