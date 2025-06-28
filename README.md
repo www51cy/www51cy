@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilrajrimal1&label=Profile%20views&color=0e75b6&style=flat" alt="anilrajrimal1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/anilrajrimal" target="blank"><img src="https://img.shields.io/twitter/follow/anilrajrimal?logo=twitter&style=for-the-badge" alt="anilrajrimal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/anilrajrimal" target="blank"><img src="https://img.shields.io/twitter/follow/anilrajrimal?logo=twitter&style=for-the-badge" alt="www51cy" /></a> </p>
 
 - I'm currently working at **NAXA Pvt. Ltd.**
 
@@ -18,7 +18,7 @@
   `Terraform skill level:`  
   `[██████-------] 40%`  
 
-- 📫 How to reach me **anilrajrimal@gmail.com**
+- 📫 How to reach me **www51cy@gmail.com**
 
 - 💻 Want to see my portfolio **www.anilrajrimal.com.np**
 
@@ -90,22 +90,22 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/anilrajrimal1" target="_blank">
+<a href="https://github.com/www51cy1" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/anilrajrimal" target="_blank">
+<a href="https://linkedin.com/in/www51cy" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/fb.anilrajrimal" target="_blank">
+<a href="https://www.facebook.com/fb.www51cy" target="_blank">
 <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/26495540/anil-raj-rimal" target="_blank">
 <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/the_anilrajrimal" target="_blank">
+<a href="https://www.behance.net/the_www51cy" target="_blank">
 <img src="https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white" alt="behance" style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@anilrajrimal" target="_blank">
+<a href="https://medium.com/@www51cy" target="_blank">
 <img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -114,4 +114,4 @@
 ## GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilrajrimal1&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="anilrajrimal1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilrajrimal1&theme=chartreuse-dark&show_icons=true&locale=en" alt="anilrajrimal1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilrajrimal1&theme=chartreuse-dark&show_icons=true&locale=en" alt="www51cy1" /></p>
