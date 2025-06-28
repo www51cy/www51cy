@@ -10,24 +10,18 @@
 
 
 
-- I'm currently working at **NAXA Pvt. Ltd.**
+- I'm currently working at **xxx. Ltd.**
 
-- 🌱 I’m currently learning **Terraform**  
-  `Terraform skill level:`  
-  `[██████-------] 40%`  
+- 🌱 I’m currently learning **WebAssembly**  
+  `Terraform skill level:`  `[█████████----] 70%`  
 
 - 📫 How to reach me **www51cy@gmail.com**
 
 - 💻 Want to see my portfolio **www.anilrajrimal.com.np**
 
-- ⚡ Fun fact: I have a habit of typing "`clear`" after every command.
 
-> 🖥️ *Anil's Terminal*  
-> ```bash
-> $ clear && echo "Let's break something again !"
-> ```
-> 🧼 P.S. I've cleared my terminal [**1024**] times... and counting.  
-> 📦 [`cleartrack`](https://github.com/anilrajrimal1/cleartrack) is watching.👀
+
+> 📦 [`cleartrack`](https://github.com/www51cy/cleartrack) is watching.👀
 
 ### My Skill Set  
 <table><tr><td valign="top" width="33%">
