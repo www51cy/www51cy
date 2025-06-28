@@ -1,10 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://anilrajrimal.com.np)
 
-// <p align="center">
-//   <a href="https://anilrajrimal.com.np" target="_blank">
-//     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=7FFF00&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B,+I'm+Anil+Raj+Rimal;Junior+DevOps+Engineer;Cloud+Enthusiast;AWS+Community+Builder" alt="Typing SVG"/>
-//   </a>
-// </p>
 
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/oqF1fZcPhgozLbtzKq/giphy.webp?cid=790b7611z6uv135cozfjq0tizlmb7c66r7qgbxiuemse9lwc&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
